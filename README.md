@@ -1,2 +1,2 @@
-# AI Powered Travel Agent
-![preview](/public/travel-agent.png)
+# Trip planner
+![preview](/public/Trip planner.png)
