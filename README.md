@@ -1,2 +1,2 @@
-# Trip planner
-![preview](/public/Trip planner.png)
+# AI Trip planner
+![preview](/public/AI-Trip planner.png)
