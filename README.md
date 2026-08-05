@@ -25,6 +25,49 @@ An AI-powered travel planning application that transforms user ideas into person
 - 📱 Responsive Design
   - Optimized for desktop, tablet, and mobile devices.
  
+  ## 🛠️ Tech Stack
+
+### Frontend
+- React.js
+- TypeScript
+- Vite
+- Tailwind CSS
+- React Hooks
+
+💡 How It Works
+
+1. User enters trip details:
+   - Destination
+   - Number of days
+   - Budget
+   - Travel interests
+   - Preferred activities
+
+2. The application sends the request to an AI model.
+
+3. The AI generates a structured itinerary.
+
+Example:
+
+```json
+{
+  "destination": "Paris",
+  "days": [
+    {
+      "day": 1,
+      "activities": [
+        "Visit Eiffel Tower",
+        "Explore Louvre Museum"
+      ]
+    }
+  ]
+}
+```
+
+4. The application converts the AI response into editable UI components.
+
+5. Users can customize their travel plan before finalizing.
+ 
  PROJECT STRUCTURE 
  ai-trip-planner/
 │
